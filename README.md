@@ -1,4 +1,4 @@
-# Procedural Generation with Python and Tkinter
+# Procedural Generation Adventures
 ![world](https://github.com/Eeman1113/Procedural_Generation_Python/assets/54275491/2853832b-e3d7-45e2-be66-12e9422a8b06)
 
 
