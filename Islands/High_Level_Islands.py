@@ -175,6 +175,18 @@ stg = {
     "lacunarity" : [20, 1, 100]
 }
 
+# stg = {
+#     "height": [1000, 100, 2000],  # resolution
+#     "width": [1000, 100, 2000],  # resolution
+
+#     "seed": [0, 0, 100],  # 0 is random
+#     "sea_level": [120, 1, 200],  # altitude
+#     "scale": [45, 1, 100],
+#     "octaves": [6, 1, 15],
+#     "persistence": [55, 1, 100],
+#     "lacunarity": [20, 1, 100]
+# }
+
 # name, color, altitude
 layers = np.array([
     ["blue1", (22, 156, 233), -10],
