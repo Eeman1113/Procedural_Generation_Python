@@ -1,0 +1,5 @@
+noise==1.2.2
+numpy==1.23.0
+Pillow==10.1.0
+pygame==2.1.2
+streamlit==1.28.1
